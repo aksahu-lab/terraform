@@ -1,0 +1,7 @@
+ami_use1_value = "ami-0427090fd1714168b"
+ami_usw2_value = "ami-074be47313f84fa38"
+instance_type_value = "t2.micro"
+subnet_use1_id_value = "subnet-05388ece6f370cf65"
+subnet_usw2_id_value = "subnet-0f808da60d83fbe40"
+key_use1_value = "terraform-key"
+key_usw2_value = "tf-usw2-key"
