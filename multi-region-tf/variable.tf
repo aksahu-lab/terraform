@@ -3,6 +3,7 @@ variable "ami_use1_value" {
     type = string
     default = "ami-0427090fd1714168b"
 }
+
 variable "ami_usw2_value" {
     description = "The AMI value for the EC2 instance"
     type = string
@@ -32,6 +33,7 @@ variable "key_use1_value" {
     type = string
     default = "terraform-key"
 }
+
 variable "key_usw2_value" {
     description = "Key name of the EC2 instance"
     type = string
